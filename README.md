@@ -1,5 +1,7 @@
 # README
 
+A platform for colaborating and writng stories like a Object Oriented System
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
